@@ -1,0 +1,15 @@
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.deps.json
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.dll
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.csprojAssemblyReference.cache
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.AssemblyInfoInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.AssemblyInfo.cs
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.runtimeconfig.json
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.runtimeconfig.dev.json
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Domain.dll
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\bin\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Domain.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.csproj.CoreCompileInputs.cache
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.csproj.CopyComplete
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.dll
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.pdb
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Data\obj\Debug\netcoreapp3.1\CPRG214.MvcCore.Assignment2.Data.genruntimeconfig.cache
