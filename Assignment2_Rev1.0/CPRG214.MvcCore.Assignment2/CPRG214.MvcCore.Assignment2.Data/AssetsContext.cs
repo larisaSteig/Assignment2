@@ -6,9 +6,9 @@ using System.Text;
 
 namespace CPRG214.MvcCore.Assignment2.Data
 {
-    public class AssetContext: DbContext
+    public class AssetsContext: DbContext
     {
-        public AssetContext() : base () { }
+        public AssetsContext() : base () { }
         public DbSet<Asset> Assets { get; set; }
         public DbSet<AssetType> AssetTypes { get; set; }
 

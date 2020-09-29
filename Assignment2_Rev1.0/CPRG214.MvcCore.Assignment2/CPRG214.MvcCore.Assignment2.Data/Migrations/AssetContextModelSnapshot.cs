@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CPRG214.MvcCore.Assignment2.Data.Migrations
 {
-    [DbContext(typeof(AssetContext))]
+    [DbContext(typeof(AssetsContext))]
     partial class AssetContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

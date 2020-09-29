@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CPRG214.MvcCore.Assignment2.Data.Migrations
 {
-    [DbContext(typeof(AssetContext))]
+    [DbContext(typeof(AssetsContext))]
     [Migration("20200928155744_CreateAssetDatabase")]
     partial class CreateAssetDatabase
     {
