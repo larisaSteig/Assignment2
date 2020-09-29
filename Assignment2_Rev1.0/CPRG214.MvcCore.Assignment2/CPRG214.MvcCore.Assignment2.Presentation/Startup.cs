@@ -46,7 +46,7 @@ namespace CPRG214.MvcCore.Assignment2.Presentation
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Asset}/{action=Search}/{id?}");
             });
         }
     }

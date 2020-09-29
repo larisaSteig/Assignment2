@@ -152,3 +152,4 @@ C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.M
 C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\Asset\Search.cshtml.g.cs
 C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\AssetByType\Default.cshtml.g.cs
 C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\Type\Create.cshtml.g.cs
+C:\Users\Manpower\Desktop\ASP_NET class\Assignment2\Assignment2_Rev1.0\CPRG214.MvcCore.Assignment2\CPRG214.MvcCore.Assignment2.Presentation\obj\Debug\netcoreapp3.1\Razor\Views\Asset\Edit.cshtml.g.cs

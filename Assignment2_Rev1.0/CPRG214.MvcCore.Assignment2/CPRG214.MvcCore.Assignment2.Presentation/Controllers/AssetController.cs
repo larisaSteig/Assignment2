@@ -67,6 +67,26 @@ namespace CPRG214.MvcCore.Assignment2.Presentation.Controllers
             
         }
 
+        public IActionResult Edit(int id)
+        {
+            var asset = AssetManager.Find(id);
+            return View(asset);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Asset asset)
+        {
+            try
+            {
+                //call the OwnerManager to EDIT
+                AssetManager.Update(asset);
+                return RedirectToAction(nameof(Index));
+            }
+            catch
+            {
+                return View();
+            }
+        }
 
         protected IEnumerable GetAssetTypes()
         {

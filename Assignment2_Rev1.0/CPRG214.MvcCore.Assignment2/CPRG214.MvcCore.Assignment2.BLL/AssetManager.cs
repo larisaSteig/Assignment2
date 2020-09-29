@@ -44,5 +44,25 @@ namespace CPRG214.MvcCore.Assignment2.BLL
             }).ToList();
             return types;
         }
+
+        public static Asset Find(int id)
+        {
+            var context = new AssetsContext();
+            var originalAsset = context.Assets.Find(id);
+            return originalAsset;
+        }
+
+        public static void Update(Asset asset)
+        {
+            var context = new AssetsContext();
+            var originalAsset = context.Assets.Find(asset.Id);
+            originalAsset.Manufacturer = asset.Manufacturer;
+            originalAsset.Model = asset.Model;
+            originalAsset.SerialNumber = asset.SerialNumber;
+            originalAsset.TagNumber = asset.TagNumber;
+            originalAsset.Description = asset.Description;
+            originalAsset.AssetType = asset.AssetType;
+            context.SaveChanges();
+        }
     }
 }
